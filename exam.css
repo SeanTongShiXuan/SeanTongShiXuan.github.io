@@ -1,0 +1,36 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: grey;
+    padding:2%;
+    margin:2%;
+    box-shadow: 3px 3px 3px yellow;
+}
+h5{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.gamecard{
+    background-color: black;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    border-radius: 50%;
+    margin:2%;
+    box-shadow: 1px 1px 1px white;
+    height: 200px;
+    width: 200px;
+}
+h4{
+    color:yellow;  
+}
+p{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2%;
+    width:50%;
+    text-align: center;
+}
